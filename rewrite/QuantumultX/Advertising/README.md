@@ -9,7 +9,7 @@
 本复写配置不包含知乎和Youtube去广告规则。
 
 
-最后检查时间：2020-10-18 02:03:09。
+最后检查时间：2020-10-18 02:46:07。
 
 ## 复写统计
 
@@ -40,9 +40,10 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/Q
 
 - https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/RewriteRules.sgmodule
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.sgmodule
+- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Module/Block/Advertising.sgmodule
 - https://raw.githubusercontent.com/eHpo1/Rules/master/QuantumultX/Rewrite.txt
 - https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Rewrite_lhie1.conf
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Advertising.conf
+- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/Advertising.conf
 - https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Loon/Plugin/Advertising.plugin
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.lnwrite
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.lnplugin
@@ -60,6 +61,10 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/Q
 本项目的去广告规则仅是将网络上开源的去广告规则整合去重，**非实际规则维护者**。数据源规则无法去除的广告，本项目的去广告规则也无能为力。
 
 所以很抱歉，没办法处理关于某个APP无法去除广告的反馈，除非您能明确数据源的规则可以去除，而整合后的规则无法去除。同样，也没办法协助您处理去广告规则误拦截的问题，除非您能明确告知哪条规则存在问题，我会将其加入规则黑名单，下次爬虫程序更新时将其去除。
+
+### 脚本处理
+
+去广告复写规则已将所有涉及脚本处理的复写去除，请知悉。
 
 ### 正则合并
 
