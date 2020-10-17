@@ -1,6 +1,6 @@
 # NAME: BlackList
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATE: 2020-10-17 22:43:45
+# UPDATE: 2020-10-18 02:02:52
 # DOMAIN: 6
 # DOMAIN-KEYWORD: 12
 # DOMAIN-SUFFIX: 697
@@ -13,18 +13,6 @@ HOST,hls.itunes.apple.com,BlackList
 HOST,lookup-api.apple.com,BlackList
 HOST,process-name,BlackList
 HOST,testflight.apple.com,BlackList
-HOST-KEYWORD,appledaily,BlackList
-HOST-KEYWORD,beetalk,BlackList
-HOST-KEYWORD,blogspot,BlackList
-HOST-KEYWORD,dlercloud,BlackList
-HOST-KEYWORD,dropbox,BlackList
-HOST-KEYWORD,facebook,BlackList
-HOST-KEYWORD,github,BlackList
-HOST-KEYWORD,google,BlackList
-HOST-KEYWORD,instagram,BlackList
-HOST-KEYWORD,tesla,BlackList
-HOST-KEYWORD,twitter,BlackList
-HOST-KEYWORD,whatsapp,BlackList
 HOST-SUFFIX,1e100.net,BlackList
 HOST-SUFFIX,2mdn.net,BlackList
 HOST-SUFFIX,2o7.net,BlackList
@@ -722,6 +710,21 @@ HOST-SUFFIX,zaobao.com.sg,BlackList
 HOST-SUFFIX,zattoo.com,BlackList
 HOST-SUFFIX,zeutch.com,BlackList
 HOST-SUFFIX,zynamics.com,BlackList
+HOST-KEYWORD,appledaily,BlackList
+HOST-KEYWORD,beetalk,BlackList
+HOST-KEYWORD,blogspot,BlackList
+HOST-KEYWORD,dlercloud,BlackList
+HOST-KEYWORD,dropbox,BlackList
+HOST-KEYWORD,facebook,BlackList
+HOST-KEYWORD,github,BlackList
+HOST-KEYWORD,google,BlackList
+HOST-KEYWORD,instagram,BlackList
+HOST-KEYWORD,tesla,BlackList
+HOST-KEYWORD,twitter,BlackList
+HOST-KEYWORD,whatsapp,BlackList
+USER-AGENT,battleroyale*,BlackList
+USER-AGENT,roam*,BlackList
+USER-AGENT,whatsapp*,BlackList
 IP-CIDR,1.201.0.0/24,BlackList
 IP-CIDR,103.2.28.0/22,BlackList
 IP-CIDR,103.246.56.0/22,BlackList
@@ -782,6 +785,3 @@ IP-CIDR,74.119.76.0/22,BlackList
 IP-CIDR,74.125.0.0/16,BlackList
 IP-CIDR,74.86.0.0/16,BlackList
 IP-CIDR,75.126.0.0/16,BlackList
-USER-AGENT,battleroyale*,BlackList
-USER-AGENT,roam*,BlackList
-USER-AGENT,whatsapp*,BlackList

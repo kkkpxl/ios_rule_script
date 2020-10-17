@@ -7,7 +7,7 @@
 定时爬取互联网上开源的隐私分流规则，将其进行清洗、去重、合并、优化后，形成单一的分流规则文件，旨在解决引用大量外部规则造成规则重复的问题。
 
 
-最后检查时间：2020-10-17 22:43:50。
+最后检查时间：2020-10-18 02:02:58。
 
 ## 规则统计
 
@@ -28,8 +28,9 @@
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Advertising)    | 157451   | [2686](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Repeat/Privacy/Advertising.list)   |   1.71%  |
-|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingLite)    | 52923   | [72](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Repeat/Privacy/AdvertisingLite.list)   |   0.14%  |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Advertising)    | 139980   | [2686](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Repeat/Privacy/Advertising.list)   |   1.92%  |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingTest)    | 150462   | [2688](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Repeat/Privacy/AdvertisingTest.list)   |   1.79%  |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingLite)    | 44370   | [2421](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Repeat/Privacy/AdvertisingLite.list)   |   5.46%  |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/China)    | 593   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Repeat/Privacy/China.list)   |   0.17%  |
 ## 配置说明
 
@@ -49,6 +50,9 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Privacy/Privacy.list
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Privacy/Domain.list
+
+如果稳定版无法访问 ，可能是尚未从实时版的分支合并，建议您先使用实时版，或等待下次稳定版分支合并。
+
 ### 特别说明
 
 Privacy.list请使用RULE-SET，Domain.list请使用DOMAIN-SET。
@@ -63,7 +67,7 @@ Privacy.list请使用RULE-SET，Domain.list请使用DOMAIN-SET。
 
 感谢以上分流规则作者的辛勤付出（排名不分先后）。
 
-如果你有更好的分流规则，欢迎提交给我，我会将它加到数据源中继续完善。
+如果您有更好的分流规则，欢迎提交给我，我会将它加到数据源中继续完善。
 
 ## 最后
 
@@ -77,7 +81,7 @@ Privacy.list请使用RULE-SET，Domain.list请使用DOMAIN-SET。
 
 ### 完善规则
 
-如果你：
+如果您：
 
 1. 有更优的原始规则数据
 2. 有更多的黑名单规则数据

@@ -8,7 +8,7 @@
 
 含有PlayStation。
 
-最后检查时间：2020-10-17 22:43:50。
+最后检查时间：2020-10-18 02:02:58。
 
 ## 规则统计
 
@@ -53,7 +53,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surg
 
 感谢以上分流规则作者的辛勤付出（排名不分先后）。
 
-如果你有更好的分流规则，欢迎提交给我，我会将它加到数据源中继续完善。
+如果您有更好的分流规则，欢迎提交给我，我会将它加到数据源中继续完善。
 
 ## 最后
 
@@ -67,7 +67,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surg
 
 ### 完善规则
 
-如果你：
+如果您：
 
 1. 有更优的原始规则数据
 2. 有更多的黑名单规则数据

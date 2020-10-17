@@ -1,6 +1,6 @@
 # NAME: China
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATE: 2020-10-17 22:43:45
+# UPDATE: 2020-10-18 02:02:52
 # DOMAIN: 16
 # DOMAIN-KEYWORD: 4
 # DOMAIN-SUFFIX: 552
@@ -24,10 +24,6 @@ HOST,officecdn-microsoft-com.akamaized.net,China
 HOST,safebrowsing.googleapis.com,China
 HOST,speedtest.macpaw.com,China
 HOST,www-cdn.icloud.com.akadns.net,China
-HOST-KEYWORD,apple.com.akadns.net,China
-HOST-KEYWORD,beplay,China
-HOST-KEYWORD,icloud.com.akadns.net,China
-HOST-KEYWORD,speedtest,China
 HOST-SUFFIX,115.com,China
 HOST-SUFFIX,12306.cn,China
 HOST-SUFFIX,12306.com,China
@@ -580,13 +576,10 @@ HOST-SUFFIX,zmz2019.com,China
 HOST-SUFFIX,zmzapi.com,China
 HOST-SUFFIX,zmzapi.net,China
 HOST-SUFFIX,zmzfile.com,China
-IP-CIDR,1.255.62.0/24,China
-IP-CIDR,119.28.28.28/32,China
-IP-CIDR,182.254.116.0/24,China
-IP-CIDR,185.188.32.0/24,China
-IP-CIDR,185.188.33.0/24,China
-IP-CIDR,185.188.34.0/24,China
-IP-CIDR,185.188.35.0/24,China
+HOST-KEYWORD,apple.com.akadns.net,China
+HOST-KEYWORD,beplay,China
+HOST-KEYWORD,icloud.com.akadns.net,China
+HOST-KEYWORD,speedtest,China
 USER-AGENT,%e4%bc%81%e4%b8%9a%e5%be%ae%e4%bf%a1*,China
 USER-AGENT,%e4%bc%98%e9%85%b7*,China
 USER-AGENT,%e7%bd%91%e6%98%93%e4%ba%91%e9%9f%b3%e4%b9%90*,China
@@ -597,3 +590,10 @@ USER-AGENT,paypal*,China
 USER-AGENT,remoteplay*,China
 USER-AGENT,wechat*,China
 USER-AGENT,yyets*,China
+IP-CIDR,1.255.62.0/24,China
+IP-CIDR,119.28.28.28/32,China
+IP-CIDR,182.254.116.0/24,China
+IP-CIDR,185.188.32.0/24,China
+IP-CIDR,185.188.33.0/24,China
+IP-CIDR,185.188.34.0/24,China
+IP-CIDR,185.188.35.0/24,China

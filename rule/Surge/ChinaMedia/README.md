@@ -7,7 +7,7 @@
 定时爬取互联网上开源的GlobalMedia分流规则，将其进行清洗、去重、合并、优化后，形成单一的分流规则文件，旨在解决引用大量外部规则造成规则重复的问题。
 
 
-最后检查时间：2020-10-17 22:43:48。
+最后检查时间：2020-10-18 02:02:55。
 
 ## 规则统计
 
@@ -30,8 +30,9 @@ GlobalMedia分流规则，与本项目其他分流规则重复情况统计。
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Advertising)    | 157451   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Repeat/ChinaMedia/Advertising.list)   |   0.00%  |
-|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingLite)    | 52923   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Repeat/ChinaMedia/AdvertisingLite.list)   |   0.00%  |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Advertising)    | 139980   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Repeat/ChinaMedia/Advertising.list)   |   0.00%  |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingTest)    | 150462   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Repeat/ChinaMedia/AdvertisingTest.list)   |   0.00%  |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingLite)    | 44370   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Repeat/ChinaMedia/AdvertisingLite.list)   |   0.00%  |
 |  [AsianMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AsianMedia)    | 28   | [25](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Repeat/ChinaMedia/AsianMedia.list)   |   89.29%  |
 |  [Bilibili](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Bilibili)    | 13   | [13](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Repeat/ChinaMedia/Bilibili.list)   |   100.00%  |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/China)    | 593   | [21](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Repeat/ChinaMedia/China.list)   |   3.54%  |
@@ -66,7 +67,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surg
 
 感谢以上分流规则作者的辛勤付出（排名不分先后）。
 
-如果你有更好的分流规则，欢迎提交给我，我会将它加到数据源中继续完善。
+如果您有更好的分流规则，欢迎提交给我，我会将它加到数据源中继续完善。
 
 ## 最后
 
@@ -80,7 +81,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surg
 
 ### 完善规则
 
-如果你：
+如果您：
 
 1. 有更优的原始规则数据
 2. 有更多的黑名单规则数据

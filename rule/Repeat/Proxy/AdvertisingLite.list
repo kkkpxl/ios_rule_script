@@ -1,5 +1,5 @@
-# Proxy 与 AdvertisingLite 共 28 条规则重复
-# 最后检查时间：2020-10-17 22:43:51
+# Proxy 与 AdvertisingLite 共 30 条规则重复
+# 最后检查时间：2020-10-18 02:02:59
 # Github: https://github.com/blackmatrix7/ios_rule_script
 # 重复规则明细：
 DOMAIN-SUFFIX,2o7.net
@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,googlecommerce.com
 DOMAIN-SUFFIX,javhd.com
 DOMAIN-SUFFIX,js.revsci.net
 DOMAIN-SUFFIX,localnetwork.uop
+DOMAIN-SUFFIX,ntdtv.org
 DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,panoramio.com
 DOMAIN-SUFFIX,pubnub.com
@@ -29,4 +30,5 @@ DOMAIN-SUFFIX,tuidang.org
 DOMAIN-SUFFIX,xinsheng.net
 DOMAIN-SUFFIX,yuanming.net
 DOMAIN-SUFFIX,zhengjian.org
+DOMAIN-SUFFIX,zhengwunet.org
 DOMAIN-SUFFIX,zhuichaguoji.org

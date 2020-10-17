@@ -7,7 +7,7 @@
 定时爬取互联网上开源的隐私分流规则，将其进行清洗、去重、合并、优化后，形成单一的分流规则文件，旨在解决引用大量外部规则造成规则重复的问题。
 
 
-最后检查时间：2020-10-17 22:43:50。
+最后检查时间：2020-10-18 02:02:58。
 
 ## 规则统计
 
@@ -28,8 +28,9 @@
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Advertising)    | 157451   | [2686](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Repeat/Privacy/Advertising.list)   |   1.71%  |
-|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingLite)    | 52923   | [72](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Repeat/Privacy/AdvertisingLite.list)   |   0.14%  |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Advertising)    | 139980   | [2686](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Repeat/Privacy/Advertising.list)   |   1.92%  |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingTest)    | 150462   | [2688](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Repeat/Privacy/AdvertisingTest.list)   |   1.79%  |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingLite)    | 44370   | [2421](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Repeat/Privacy/AdvertisingLite.list)   |   5.46%  |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/China)    | 593   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Repeat/Privacy/China.list)   |   0.17%  |
 ## 配置说明
 
@@ -56,7 +57,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Quan
 
 感谢以上分流规则作者的辛勤付出（排名不分先后）。
 
-如果你有更好的分流规则，欢迎提交给我，我会将它加到数据源中继续完善。
+如果您有更好的分流规则，欢迎提交给我，我会将它加到数据源中继续完善。
 
 ## 最后
 
@@ -70,7 +71,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Quan
 
 ### 完善规则
 
-如果你：
+如果您：
 
 1. 有更优的原始规则数据
 2. 有更多的黑名单规则数据

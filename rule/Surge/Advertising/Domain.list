@@ -1,7 +1,7 @@
 # NAME: Advertising
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATE: 2020-10-17 22:43:43
-# TOTAL: 156811
+# UPDATE: 2020-10-18 02:02:49
+# TOTAL: 139340
 .0.r.msn.com
 .00-gov.cn
 .000dn.com
@@ -43843,6 +43843,7 @@
 .zzyonghao.com
 .zzz7.52896368.com
 .zzzzz4.52896368.com
+//url-regex
 0.fls.doubleclick.net
 0.nextyourcontent.com
 0.up.qingdaonews.com

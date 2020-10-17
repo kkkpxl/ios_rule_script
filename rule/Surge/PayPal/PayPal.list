@@ -1,12 +1,12 @@
 # NAME: PayPal
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATE: 2020-10-17 22:43:45
+# UPDATE: 2020-10-18 02:02:52
 # DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 3
 # USER-AGENT: 1
 # TOTAL: 5
-DOMAIN-KEYWORD,paypal
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,paypal.me
 DOMAIN-SUFFIX,paypalobjects.com
+DOMAIN-KEYWORD,paypal
 USER-AGENT,paypal*

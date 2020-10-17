@@ -1,11 +1,10 @@
 # NAME: TikTok
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATE: 2020-10-17 22:43:46
+# UPDATE: 2020-10-18 02:02:52
 # DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 9
 # USER-AGENT: 1
 # TOTAL: 11
-DOMAIN-KEYWORD,-tiktokcdn-com
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,ibytedtos.com
 DOMAIN-SUFFIX,ipstatp.com
@@ -15,4 +14,5 @@ DOMAIN-SUFFIX,tik-tokapi.com
 DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-KEYWORD,-tiktokcdn-com
 USER-AGENT,tiktok*

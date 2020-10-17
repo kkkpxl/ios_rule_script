@@ -9,7 +9,7 @@
 本复写插件不包含知乎和Youtube去广告规则。
 
 
-最后检查时间：2020-10-17 22:43:58。
+最后检查时间：2020-10-18 02:03:09。
 
 ## 复写统计
 
@@ -32,6 +32,8 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Su
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/Surge/Advertising/Advertising.sgmodule
 
+如果稳定版无法访问 ，可能是尚未从实时版的分支合并，建议您先使用实时版，或等待下次稳定版分支合并。
+
 ## 数据来源
 
 本项目的去广告复写规则的数据来自以下链接，通常已涵盖所有数据来源的复写规则。如果你正在使用这些复写规则，请先删除后再使用本项目的去广告复写规则，以免造成规则重复。
@@ -52,6 +54,12 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/S
 如果你有更好的复写规则，欢迎提交给我，我会将它加到数据源中继续完善。
 
 ## 最后
+
+### 去广告问题
+
+本项目的去广告规则仅是将网络上开源的去广告规则整合去重，**非实际规则维护者**。数据源规则无法去除的广告，本项目的去广告规则也无能为力。
+
+所以很抱歉，没办法处理关于某个APP无法去除广告的反馈，除非您能明确数据源的规则可以去除，而整合后的规则无法去除。同样，也没办法协助您处理去广告规则误拦截的问题，除非您能明确告知哪条规则存在问题，我会将其加入规则黑名单，下次爬虫程序更新时将其去除。
 
 ### 正则合并
 

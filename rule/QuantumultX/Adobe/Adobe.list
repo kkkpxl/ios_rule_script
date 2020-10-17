@@ -1,13 +1,12 @@
 # NAME: Adobe
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATE: 2020-10-17 22:43:43
+# UPDATE: 2020-10-18 02:02:49
 # DOMAIN: 2
 # DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 31
 # TOTAL: 34
 HOST,adbemdigitalmediarebootprod2.112.2o7.net,Adobe
 HOST,cc-ext-prod-pkgs.s3.amazonaws.com,Adobe
-HOST-KEYWORD,adobe,Adobe
 HOST-SUFFIX,acrobat.com,Adobe
 HOST-SUFFIX,adbecrsl.com,Adobe
 HOST-SUFFIX,bam.nr-data.net,Adobe
@@ -39,3 +38,4 @@ HOST-SUFFIX,typekit.com,Adobe
 HOST-SUFFIX,typekit.net,Adobe
 HOST-SUFFIX,verisign.com,Adobe
 HOST-SUFFIX,worldsecuresystems.com,Adobe
+HOST-KEYWORD,adobe,Adobe

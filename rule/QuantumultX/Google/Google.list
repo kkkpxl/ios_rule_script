@@ -1,13 +1,10 @@
 # NAME: Google
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATE: 2020-10-17 22:43:45
+# UPDATE: 2020-10-18 02:02:52
 # DOMAIN-KEYWORD: 3
 # DOMAIN-SUFFIX: 58
 # USER-AGENT: 3
 # TOTAL: 64
-HOST-KEYWORD,blogspot,Google
-HOST-KEYWORD,google,Google
-HOST-KEYWORD,www.google.,Google
 HOST-SUFFIX,abc.xyz,Google
 HOST-SUFFIX,admin.recaptcha.net,Google
 HOST-SUFFIX,ampproject.org,Google
@@ -66,6 +63,9 @@ HOST-SUFFIX,xn--ngstr-lra8j.com,Google
 HOST-SUFFIX,youtu.be,Google
 HOST-SUFFIX,yt.be,Google
 HOST-SUFFIX,ytimg.com,Google
+HOST-KEYWORD,blogspot,Google
+HOST-KEYWORD,google,Google
+HOST-KEYWORD,www.google.,Google
 USER-AGENT,%e4%ba%91%e7%ab%af%e7%a1%ac%e7%9b%98*,Google
 USER-AGENT,*com.google.drive*,Google
 USER-AGENT,google.drive*,Google

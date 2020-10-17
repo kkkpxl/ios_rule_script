@@ -8,7 +8,7 @@
 
 不应该被去广告分流规则屏蔽的网站，请将此分流规则置于去广告规则之前。
 
-最后检查时间：2020-10-17 22:43:48。
+最后检查时间：2020-10-18 02:02:56。
 
 ## 规则统计
 
@@ -31,8 +31,9 @@
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Advertising)    | 157451   | [5](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Repeat/WhiteList/Advertising.list)   |   0.00%  |
-|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingLite)    | 52923   | [4](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Repeat/WhiteList/AdvertisingLite.list)   |   0.01%  |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Advertising)    | 139980   | [5](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Repeat/WhiteList/Advertising.list)   |   0.00%  |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingTest)    | 150462   | [5](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Repeat/WhiteList/AdvertisingTest.list)   |   0.00%  |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingLite)    | 44370   | [4](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Repeat/WhiteList/AdvertisingLite.list)   |   0.01%  |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/China)    | 593   | [4](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Repeat/WhiteList/China.list)   |   0.67%  |
 ## 配置说明
 
@@ -60,7 +61,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Quan
 
 感谢以上分流规则作者的辛勤付出（排名不分先后）。
 
-如果你有更好的分流规则，欢迎提交给我，我会将它加到数据源中继续完善。
+如果您有更好的分流规则，欢迎提交给我，我会将它加到数据源中继续完善。
 
 ## 最后
 
@@ -74,7 +75,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Quan
 
 ### 完善规则
 
-如果你：
+如果您：
 
 1. 有更优的原始规则数据
 2. 有更多的黑名单规则数据
